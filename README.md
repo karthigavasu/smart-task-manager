@@ -37,10 +37,12 @@ SmartTaskManager/
 ├── main.py
 ├── auth.py
 ├── task_manager.py
+├── database.py
 ├── tasks.json
 ├── users.json
 ├── requirements.txt
 └── README.md
+
 ```
 
 ---
